@@ -11,7 +11,7 @@ email: josef.pospisil@laststar.eui
 description: > # this means to ignore newlines until "baseurl:"
   Commented presentations for study block of subject ICT  for Managers as taught from
   15th to 18th December 2015.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/ictm" # the subpath of your site, e.g. /blog
 url: "http://pepe.github.io/ictm" # the base hostname & protocol for your site
 twitter_username: damnpepe
 github_username:  pepe
