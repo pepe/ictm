@@ -7,8 +7,8 @@ It was that tuesday.
 
 First class.
 
-Unknow people.
+##Unknow people.
 
-[Here](/assets/ICT-for-Managers-tuesday.pdf) is what I was presenting
+[Here](/ictm/assets/ICT-for-Managers-tuesday.pdf) is what I was presenting
 
 But must be said, that everything went well. Even the debate started.
